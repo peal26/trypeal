@@ -1,0 +1,23 @@
+Terminal
+
+   * mkdir - command use to create directory (mkdir c create directory name c), needs to be follow by a space bar.
+
+   * ls - list the content inside the directory 
+
+   * rmdir - to delete the directory, needs to be follow by a space bar.
+
+   * touch film.txt - touch follow by a space to create the file of any type
+
+   * rm film.text - rm follow by a space to delete the specific file 
+
+   * mv - mv follow by space bar and the file name that you want to change follow by space and new file name (ex. mv tana.txt tano.txt)
+
+   * mv tano.txt c/tano.txt - this command will move tank.txt in to the folder name c that was created.
+
+   * cd - change directory
+   * pwd - show current directory 
+   * cd .. - back one step (one folder)
+
+
+
+Know how to use git by the command line !
